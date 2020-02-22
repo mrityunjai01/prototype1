@@ -1,0 +1,12 @@
+.one{
+    width: 50%;
+    background-color: red;
+    color: black;
+    border: yellow solid 10px;
+}
+.two{
+    width: 50%;
+    background-color:blue;
+    color: greenyellow;
+    border: red solid 10px;
+}
